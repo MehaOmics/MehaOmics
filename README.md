@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Postdoctoral researcher exploring plant metabolism, biosynergists, and high-throughput biological data pipelines
+I am a Postdoctoral researcher exploring plant metabolism, biosynergists, and high-throughput biological data pipelines
 
 ## About Me
 -  Experienced in large-scale data analysis using HPC environments such as Compute Canada servers  
