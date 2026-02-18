@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Postdoctoral researcher exploring plant metabolism, biosynergists, and high-throughput biological data pipelines
+I am a Computational Biologist with a PhD in Molecular Biology and Postdoctoral experience in multi-omics research.
 
 ## About Me
 -  Experienced in large-scale data analysis using HPC environments such as Compute Canada servers  
